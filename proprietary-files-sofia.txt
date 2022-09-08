@@ -1,0 +1,150 @@
+# Audio ACDB - from sofia R
+vendor/etc/acdbdata/Bluetooth_cal.acdb:vendor/etc/acdbdata/sofia/Bluetooth_cal.acdb
+vendor/etc/acdbdata/Codec_cal.acdb:vendor/etc/acdbdata/sofia/Codec_cal.acdb
+vendor/etc/acdbdata/General_cal.acdb:vendor/etc/acdbdata/sofia/General_cal.acdb
+vendor/etc/acdbdata/Global_cal.acdb:vendor/etc/acdbdata/sofia/Global_cal.acdb
+vendor/etc/acdbdata/Handset_cal.acdb:vendor/etc/acdbdata/sofia/Handset_cal.acdb
+vendor/etc/acdbdata/Hdmi_cal.acdb:vendor/etc/acdbdata/sofia/Hdmi_cal.acdb
+vendor/etc/acdbdata/Headset_cal.acdb:vendor/etc/acdbdata/sofia/Headset_cal.acdb
+vendor/etc/acdbdata/Speaker_cal.acdb:vendor/etc/acdbdata/sofia/Speaker_cal.acdb
+
+# Audio ACDB - from sofiar R
+vendor/etc/acdbdata/Bluetooth_cal.acdb:vendor/etc/acdbdata/sofiar/Bluetooth_cal.acdb
+vendor/etc/acdbdata/Codec_cal.acdb:vendor/etc/acdbdata/sofiar/Codec_cal.acdb
+vendor/etc/acdbdata/General_cal.acdb:vendor/etc/acdbdata/sofiar/General_cal.acdb
+vendor/etc/acdbdata/Global_cal.acdb:vendor/etc/acdbdata/sofiar/Global_cal.acdb
+vendor/etc/acdbdata/Handset_cal.acdb:vendor/etc/acdbdata/sofiar/Handset_cal.acdb
+vendor/etc/acdbdata/Hdmi_cal.acdb:vendor/etc/acdbdata/sofiar/Hdmi_cal.acdb
+vendor/etc/acdbdata/Headset_cal.acdb:vendor/etc/acdbdata/sofiar/Headset_cal.acdb
+vendor/etc/acdbdata/Speaker_cal.acdb:vendor/etc/acdbdata/sofiar/Speaker_cal.acdb
+
+# Audio ACDB - from sofiap_ao S
+vendor/etc/acdbdata/Bluetooth_cal.acdb:vendor/etc/acdbdata/sofiap/Bluetooth_cal.acdb
+vendor/etc/acdbdata/Codec_cal.acdb:vendor/etc/acdbdata/sofiap/Codec_cal.acdb
+vendor/etc/acdbdata/General_cal.acdb:vendor/etc/acdbdata/sofiap/General_cal.acdb
+vendor/etc/acdbdata/Global_cal.acdb:vendor/etc/acdbdata/sofiap/Global_cal.acdb
+vendor/etc/acdbdata/Handset_cal.acdb:vendor/etc/acdbdata/sofiap/Handset_cal.acdb
+vendor/etc/acdbdata/Hdmi_cal.acdb:vendor/etc/acdbdata/sofiap/Hdmi_cal.acdb
+vendor/etc/acdbdata/Headset_cal.acdb:vendor/etc/acdbdata/sofiap/Headset_cal.acdb
+vendor/etc/acdbdata/Speaker_cal.acdb:vendor/etc/acdbdata/sofiap/Speaker_cal.acdb
+
+# Camera - from sofiar R
+vendor/etc/camera/dual_golden.bin:vendor/etc/camera/dual_golden_sofiar.bin
+vendor/etc/camera/mot_ov16e10_sofiarow_chromatix.xml
+vendor/etc/camera/mot_ov8856_chromatix.xml
+vendor/lib/libmmcamera_mot_s5k4h7.so:vendor/lib/libmmcamera_mot_s5k4h7_sofiar.so
+
+# Display Calibration - from sofia R
+vendor/etc/qdcm_calib_data_mipi_mot_vid_auo_1080p_636.xml
+vendor/etc/qdcm_calib_data_mipi_mot_vid_tianma_1080p_636.xml
+
+# Firmware (Cirrus) - from sofiap_ao S
+vendor/firmware/crus_sp_rx0.bin
+vendor/firmware/crus_sp_rx1.bin
+vendor/firmware/crus_sp_rx2.bin
+vendor/firmware/crus_sp_rx3.bin
+vendor/firmware/cs35l41-dsp1-diag.wmfw
+vendor/firmware/cs35l41-dsp1-prot.wmfw
+vendor/firmware/cs35l41-dsp1-rcv-cali.bin
+vendor/firmware/cs35l41-dsp1-rcv-prot.bin
+vendor/firmware/cs35l41-dsp1-spk-cali.bin
+vendor/firmware/cs35l41-dsp1-spk-prot.bin
+vendor/firmware/rcv_fast_switch1.txt
+vendor/firmware/rcv_fast_switch2.txt
+vendor/firmware/spk_fast_switch1.txt
+vendor/firmware/spk_fast_switch2.txt
+
+# Firmware (Touchscreen) - from sofia R
+vendor/firmware/focaltech-auo-ft8756-0b-01-sofiap.bin
+vendor/firmware/focaltech-ft8756-0e-01-sofiar.bin
+vendor/firmware/focaltech-tianma-ft8756-0c-01-sofia.bin
+vendor/firmware/focaltech-tianma-ft8756-11-01-sofiap.bin
+
+# Firmware (Touchscreen) - from sofiar R
+vendor/firmware/novatek_ts_fw.bin:vendor/firmware/auo_novatek_ts_fw.bin
+
+# Firmware (Vibrator) - from sofia R
+vendor/firmware/aw8695_haptic.bin:vendor/firmware/aw8695_haptic_sofia.bin
+
+# Firmware (Vibrator) - from sofiap_ao S
+vendor/firmware/aw8695_haptic.bin:vendor/firmware/aw8695_haptic_sofiap.bin
+
+# Firmware (Vibrator) - from sofiar R
+vendor/firmware/aw8624_haptic.bin
+vendor/firmware/aw8624_rtp.bin
+
+# QDCM - from sofia R
+vendor/etc/qdcm_calib_data_mipi_mot_vid_auo_1080p_636.xml
+vendor/etc/qdcm_calib_data_mipi_mot_vid_tianma_1080p_636.xml
+
+# Sensor Configs - from sofia R
+vendor/etc/sensors/config/ak991x_dri_0.json:vendor/etc/sensors/config-sofia/ak991x_dri_0.json
+vendor/etc/sensors/config/ak991x_polling_0.json:vendor/etc/sensors/config-sofia/ak991x_polling_0.json
+vendor/etc/sensors/config/default_sensors.json:vendor/etc/sensors/config-sofia/default_sensors.json
+vendor/etc/sensors/config/dps368_0.json:vendor/etc/sensors/config-sofia/dps368_0.json
+vendor/etc/sensors/config/icm4x6xx_0.json:vendor/etc/sensors/config-sofia/icm4x6xx_0.json
+vendor/etc/sensors/config/icp101xx_0.json:vendor/etc/sensors/config-sofia/icp101xx_0.json
+vendor/etc/sensors/config/lsm6ds3_0.json:vendor/etc/sensors/config-sofia/lsm6ds3_0.json
+vendor/etc/sensors/config/lsm6dsm_0.json:vendor/etc/sensors/config-sofia/lsm6dsm_0.json
+vendor/etc/sensors/config/lsm6dsm_0_16g.json:vendor/etc/sensors/config-sofia/lsm6dsm_0_16g.json
+vendor/etc/sensors/config/lsm6dsm_0_8g.json:vendor/etc/sensors/config-sofia/lsm6dsm_0_8g.json
+vendor/etc/sensors/config/lsm6dso_0.json:vendor/etc/sensors/config-sofia/lsm6dso_0.json
+vendor/etc/sensors/config/lsm6dso_0_16g.json:vendor/etc/sensors/config-sofia/lsm6dso_0_16g.json
+vendor/etc/sensors/config/lsm6dso_0_8g.json:vendor/etc/sensors/config-sofia/lsm6dso_0_8g.json
+vendor/etc/sensors/config/ltr2568_0.json:vendor/etc/sensors/config-sofia/ltr2568_0.json
+vendor/etc/sensors/config/ltr308_0_on_change.json:vendor/etc/sensors/config-sofia/ltr308_0_on_change.json
+vendor/etc/sensors/config/mmc5603x_0.json:vendor/etc/sensors/config-sofia/mmc5603x_0.json:
+vendor/etc/sensors/config/mot_chopchop.json:vendor/etc/sensors/config-sofia/mot_chopchop.json
+vendor/etc/sensors/config/mot_devorient.json:vendor/etc/sensors/config-sofia/mot_devorient.json
+vendor/etc/sensors/config/mot_ltv.json:vendor/etc/sensors/config-sofia/mot_ltv.json
+vendor/etc/sensors/config/nicobar_ak991x_0.json:vendor/etc/sensors/config-sofia/nicobar_ak991x_0.json
+vendor/etc/sensors/config/nicobar_icm4x6xx_0-i3c.json:vendor/etc/sensors/config-sofia/nicobar_icm4x6xx_0-i3c.json
+vendor/etc/sensors/config/nicobar_lsm6dso_0.json:vendor/etc/sensors/config-sofia/nicobar_lsm6dso_0.json
+vendor/etc/sensors/config/nicobar_mmc5603x_0.json:vendor/etc/sensors/config-sofia/nicobar_mmc5603x_0.json
+vendor/etc/sensors/config/nicobar_vcnl36866_0.json:vendor/etc/sensors/config-sofia/nicobar_vcnl36866_0.json
+vendor/etc/sensors/config/sns_amd.json:vendor/etc/sensors/config-sofia/sns_amd.json
+vendor/etc/sensors/config/sns_amd_sw_disabled.json:vendor/etc/sensors/config-sofia/sns_amd_sw_disabled.json
+vendor/etc/sensors/config/sns_amd_sw_enabled.json:vendor/etc/sensors/config-sofia/sns_amd_sw_enabled.json
+vendor/etc/sensors/config/sns_aont.json:vendor/etc/sensors/config-sofia/sns_aont.json
+vendor/etc/sensors/config/sns_ccd.json:vendor/etc/sensors/config-sofia/sns_ccd.json
+vendor/etc/sensors/config/sns_cm.json:vendor/etc/sensors/config-sofia/sns_cm.json
+vendor/etc/sensors/config/sns_dae.json:vendor/etc/sensors/config-sofia/sns_dae.json
+vendor/etc/sensors/config/sns_diag_filter.json:vendor/etc/sensors/config-sofia/sns_diag_filter.json
+vendor/etc/sensors/config/sns_distance_bound.json:vendor/etc/sensors/config-sofia/sns_distance_bound.json
+vendor/etc/sensors/config/sns_dpc.json:vendor/etc/sensors/config-sofia/sns_dpc.json
+vendor/etc/sensors/config/sns_fmv.json:vendor/etc/sensors/config-sofia/sns_fmv.json
+vendor/etc/sensors/config/sns_geomag_rv.json:vendor/etc/sensors/config-sofia/sns_geomag_rv.json
+vendor/etc/sensors/config/sns_gyro_cal.json:vendor/etc/sensors/config-sofia/sns_gyro_cal.json
+vendor/etc/sensors/config/sns_mag_cal.json:vendor/etc/sensors/config-sofia/sns_mag_cal.json
+vendor/etc/sensors/config/sns_pedometer.json:vendor/etc/sensors/config-sofia/sns_pedometer.json
+vendor/etc/sensors/config/sns_rmd.json:vendor/etc/sensors/config-sofia/sns_rmd.json
+vendor/etc/sensors/config/sns_rotv.json:vendor/etc/sensors/config-sofia/sns_rotv.json
+vendor/etc/sensors/config/sns_smd.json:vendor/etc/sensors/config-sofia/sns_smd.json
+vendor/etc/sensors/config/sns_tilt.json:vendor/etc/sensors/config-sofia/sns_tilt.json
+vendor/etc/sensors/config/sns_tilt_sw_disabled.json:vendor/etc/sensors/config-sofia/sns_tilt_sw_disabled.json
+vendor/etc/sensors/config/sns_tilt_sw_enabled.json:vendor/etc/sensors/config-sofia/sns_tilt_sw_enabled.json
+vendor/etc/sensors/config/vcnl36866_0.json:vendor/etc/sensors/config-sofia/vcnl36866_0.json
+
+# Sensor Configs - from sofiar R
+vendor/etc/sensors/config/mn29xxx_0.json:vendor/etc/sensors/config-sofiar/mn29xxx_0.json
+vendor/etc/sensors/config/mn59xxx_0.json:vendor/etc/sensors/config-sofiar/mn59xxx_0.json
+vendor/etc/sensors/config/nicobar_ak991x_0.json:vendor/etc/sensors/config-sofiar/nicobar_ak991x_0.json
+vendor/etc/sensors/config/nicobar_icm4x6xx_0-i3c.json:vendor/etc/sensors/config-sofiar/nicobar_icm4x6xx_0-i3c.json
+vendor/etc/sensors/config/nicobar_lsm6dso_0.json:vendor/etc/sensors/config-sofiar/nicobar_lsm6dso_0.json
+vendor/etc/sensors/config/nicobar_mn29xxx_0.json:vendor/etc/sensors/config-sofiar/nicobar_mn29xxx_0.json
+vendor/etc/sensors/config/nicobar_mn59xxx_0.json:vendor/etc/sensors/config-sofiar/nicobar_mn59xxx_0.json
+vendor/etc/sensors/config/sns_tilt_to_wake.json:vendor/etc/sensors/config-sofiar/sns_tilt_to_wake.json
+vendor/etc/sensors/config/sns_wrist_pedo.json:vendor/etc/sensors/config-sofiar/sns_wrist_pedo.json
+vendor/etc/sensors/config/tmd2725.json:vendor/etc/sensors/config-sofiar/tmd2725.json
+vendor/etc/sensors/config/tmd2750.json:vendor/etc/sensors/config-sofiar/tmd2750.json
+vendor/etc/sensors/config/tmx4903.json:vendor/etc/sensors/config-sofiar/tmx4903.json
+vendor/etc/sensors/config/tsl2540.json:vendor/etc/sensors/config-sofiar/tsl2540.json
+
+# Thermal - from sofia R
+vendor/etc/thermal-engine-sofia.conf
+
+# Thermal - from sofiap_ao S
+vendor/etc/thermal-engine-sofiap.conf
+
+# Thermal - from sofiar R
+vendor/etc/thermal-engine-sofiar.conf
